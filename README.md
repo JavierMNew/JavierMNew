@@ -1,7 +1,13 @@
 README.md
 
 
-<h2 align="left">Hi 👋! My name is Javier and I'm a backend developer from México</h2>
+<h2 align="left">Hey There!👋</h2>
+
+###
+
+<p>
+  I'm Javier, I'm a fullstack developer and collage student. I'm interesed in development, I work on random projects in my free time.
+</p>
 
 ###
 
